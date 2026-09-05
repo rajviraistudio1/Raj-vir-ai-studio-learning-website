@@ -1,0 +1,6 @@
+{
+  "name": "Raj Vir AI Studio Hub",
+  "description": "AI Learning Hub for beginners to discover AI tools, learn how to use AI, and explore tutorials, guides, and workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
